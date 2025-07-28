@@ -7,6 +7,7 @@ My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) u
 ## 置顶文章
 - [写gitblog](https://github.com/weifengg/gitblog/issues/1)--2025-07-11
 ## 最近更新
+- [修改generate_site的域名](https://github.com/weifengg/gitblog/issues/3)--2025-07-28
 - [如何文章归类](https://github.com/weifengg/gitblog/issues/2)--2025-07-12
 - [写gitblog](https://github.com/weifengg/gitblog/issues/1)--2025-07-11
 ## 感想
